@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+
+<!-- Publisher and feed info -->
+<publisher-name>Your ATS</publisher-name>
+<publisher-url>http://www.yourdomain.com</publisher-url>
+<last-build-date>2020-11-06 18:47:08 +0000</last-build-date>
+
+<!-- Job tag. Repeat for each job opening. -->
+<job>
+
+<!-- Basic job info -->
+<title><![CDATA[Blockchain Engineer]]></title>
+<date><![CDATA[2020-11-06 18:47:08 +0000]]></date>
+<id><![CDATA[unique11111]]></id>
+<photo-url><![CDATA[https://mahasak.com/content/images/2019/06/1_e3WMRplyxey4Slco_pkWGg.png]]></photo-url>
+<description><![CDATA[Blockchain Engineer
+
+ Developing and maintain blockchain project
+  ]]></description>
+<job-type><![CDATA[FULL_TIME]]></job-type>
+
+<!-- Company info -->
+<company-name><![CDATA[PapaBear Company, Ltd.]]></company-name>
+<company-id><![CDATA[xyz123]]></company-id>
+<company-full-address><![CDATA[1 Hacker Way, Menlo Park, CA, 94025]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/FB-Test-Page-PapaBear-Jobs-Pro-114142657391819]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://mahasak.com/policy]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://mahasak.com]]></company-url>
+<company-page-matching-approach><![CDATA[STANDARD]]></company-page-matching-approach>
+
+<!-- Location -->
+<full-address><![CDATA[1 Hacker Way, Menlo Park, CA, 94025]]></full-address>
+<country><![CDATA[US]]></country>
+
+<!-- Salary -->
+<salary-min><![CDATA[100000]]></salary-min>
+<salary-max><![CDATA[200000]]></salary-max>
+<salary-currency><![CDATA[USD]]></salary-currency>
+<salary-type><![CDATA[ANNUALLY]]></salary-type>
+
+<!-- Integration configuration -->
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://mahasak.com/configuring-private-github-repo-with-additional-ssh-key/]]>
+    </application-callback-url>
+    <form-config>
+        <email-field>
+            <optional>FALSE</optional>
+        </email-field>
+        <phone-number-field>
+            <optional>FALSE</optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional>FALSE</optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+</source>
