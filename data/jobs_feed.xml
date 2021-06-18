@@ -2,8 +2,8 @@
 <source>
 
 <!-- Publisher and feed info -->
-<publisher-name>Your ATS</publisher-name>
-<publisher-url>http://www.yourdomain.com</publisher-url>
+<publisher-name>BrotherBears Jobs</publisher-name>
+<publisher-url>http://mahasak.com</publisher-url>
 <last-build-date>2020-11-06 18:47:08 +0000</last-build-date>
 
 <!-- Job tag. Repeat for each job opening. -->
@@ -25,7 +25,7 @@
 <company-id><![CDATA[xyz123]]></company-id>
 <company-full-address><![CDATA[1 Hacker Way, Menlo Park, CA, 94025]]></company-full-address>
 <company-facebook-url>
-    <![CDATA[https://www.facebook.com/FB-Test-Page-PapaBear-Jobs-Pro-114142657391819]]>
+    <![CDATA[https://www.facebook.com/brotherbear.sticker/]]>
 </company-facebook-url>
 <company-data-policy-url>
     <![CDATA[https://mahasak.com/policy]]>
