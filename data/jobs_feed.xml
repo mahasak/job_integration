@@ -49,7 +49,7 @@
     <![CDATA[https://mahasak.com/configuring-private-github-repo-with-additional-ssh-key/]]>
     </application-callback-url>
     <custom-questions-url>
-    <![CDATA[https://mahasak.github.io/job_integration/data/custom_question.json]]>
+    <![CDATA[https://raw.githubusercontent.com/mahasak/job_integration/main/data/custom_question.json]]>
     </custom-questions-url>
     <form-config>
         <email-field>
