@@ -1,0 +1,20 @@
+[
+  {
+    "question_type": "FREE_TEXT",
+    "is_required": false,
+    "label": "Opinion",
+    "multiple_choice_options": [
+      
+    ]
+  },
+  {
+    "question_type": "MULTIPLE_CHOICE",
+    "is_required": true,
+    "label": "Reference",
+    "multiple_choice_options": [
+      "facebook",
+      "Twitter",
+      "instagram"
+    ]
+  }
+]

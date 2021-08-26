@@ -48,6 +48,9 @@
     <application-callback-url>
     <![CDATA[https://mahasak.com/configuring-private-github-repo-with-additional-ssh-key/]]>
     </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://mahasak.github.io/job_integration/data/custom_question.json]]>
+    </custom-questions-url>
     <form-config>
         <email-field>
             <optional>FALSE</optional>
